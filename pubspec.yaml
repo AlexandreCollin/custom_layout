@@ -1,7 +1,7 @@
 name: custom_layout
 description: A flutter package to create layouts.
 version: 0.0.1
-repository:
+repository: https://github.com/AlexandreCollin/custom_layout
 
 environment:
   sdk: ">=2.19.6 <3.0.0"
